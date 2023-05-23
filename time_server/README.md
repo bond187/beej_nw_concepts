@@ -1,0 +1,1 @@
+This project contacts the NIST Time Server to receive the number of seconds since the epoch began in 1900. It then compares this with the system clock to see if they match. The project lets us practice using int's .from_bytes function.
