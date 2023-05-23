@@ -1,0 +1,1 @@
+A simple http server and client pair. The server waits for incoming connections and replies with the same message no matter what the client sends.
